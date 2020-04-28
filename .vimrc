@@ -38,6 +38,8 @@ tnoremap jh <C-\><C-n>
 nmap <F9> :SCCompile<cr>
 nmap <F8> :SCCompileRun<cr>
 
+set ts=4 sw=4
+
 
 
 
